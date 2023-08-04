@@ -1,0 +1,11 @@
+{
+  "name": "logicalDataStore",
+  "services": [
+    {
+      "name": "logicalDataStore.batch",
+      "datasourceType": "file",
+      "physical": "physicalDataStore",
+      "service": "service_BATCH"
+    }
+  ]
+}

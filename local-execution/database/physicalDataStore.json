@@ -1,0 +1,9 @@
+{
+  "name": "physicalDataStore",
+  "services": [
+    {
+      "name": "service_BATCH",
+      "url": "local-execution/files/"
+    }
+  ]
+}
